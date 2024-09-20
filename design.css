@@ -1,0 +1,47 @@
+header {
+    background-image: url("https://minio.nplus1.ru/app-images/226544/conversions/63018ed0a7d63_cover-conversion-webp.webp");
+    color: aliceblue;
+   
+
+}
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url("https://img.freepik.com/premium-vector/hotdog-pattern-background_9845-353.jpg?w=740");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Oswald", sans-serif;
+    
+}
+ul {
+    list-style: none;
+    padding: 25px;
+    text-align: center;
+    margin: 0;
+    
+}
+li{
+    display: inline;
+    margin-right: 20px;
+    color: white;
+}
+table{
+    width: 300px;
+    border: 10px black;
+    margin: auto;
+    font-size: 25px;
+}
+td{
+    text-align: center;
+}
+ul {
+    list-style: none;
+    padding: 25px;
+    text-align: center;
+    margin: 0;
+    
+}
+footer{
+    background-color: black;
+}
